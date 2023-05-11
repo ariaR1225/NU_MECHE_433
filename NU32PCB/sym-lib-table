@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "PIC32DIP")(type "KiCad")(uri "${KIPRJMOD}/PIC32DIP.kicad_sym")(options "")(descr ""))
-)
